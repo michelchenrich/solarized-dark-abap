@@ -110,18 +110,18 @@
 		<TextType id="8" name="Breakpoint" dstyle="1" dbkclr="0" clr="16777215" bkclr="139"/>
 		<TextType id="10" name="Changed indicator" dstyle="1" dbkclr="1" clr="139"/>
 		<TextType id="11" name="Changed and saved indicator" dstyle="1" dbkclr="1" clr="12895487"/>
-		<TextType id="5" name="Current line" dstyle="1" dbkclr="0" clr="-1" bkclr="4339207"/>
+		<TextType id="5" name="Current line" dstyle="1" dbkclr="0" clr="-1" bkclr="3549952"/>
 		<TextType id="6" name="Erroneous line" dstyle="1" dbkclr="0" clr="65535" bkclr="255"/>
 		<TextType id="7" name="Execution" dstyle="1" dbkclr="0" clr="16777215" bkclr="3329330"/>
-		<TextType id="3" name="Inactive selected text" dstyle="1" dbkclr="0" clr="-1" bkclr="-1"/>
-		<TextType id="4" name="Line number" dstyle="1" dbkclr="1" clr="9342520"/>
+		<TextType id="3" name="Inactive selected text" dstyle="1" dbkclr="0" clr="10592659" bkclr="7695960"/>
+		<TextType id="4" name="Line number" dstyle="1" dbkclr="1" clr="10002730"/>
 		<TextType id="13" name="Maximum line length" dstyle="1" dbkclr="1" clr="255"/>
-		<TextType id="2" name="Selected text" dstyle="1" dbkclr="0" clr="14939901" bkclr="7695960"/>
+		<TextType id="2" name="Selected text" dstyle="1" dbkclr="0" clr="14018798" bkclr="7695960"/>
 		<TextType id="1" name="Selection margin" dstyle="1" dbkclr="1" clr="10592659"/>
-		<TextType id="21" name="Text highlights" bold="1" italic="0" underline="0" clr="35253" bkclr="-1"/>
+		<TextType id="21" name="Text highlights" bold="1" italic="0" underline="0" clr="8533715" bkclr="-1"/>
 		<TextType id="22" name="Text highlights error" bold="1" italic="0" underline="0" clr="255" bkclr="-1"/>
-		<TextType id="30" name="Normal" dstyle="0" dbkclr="0" bold="0" italic="0" underline="0" clr="10592659" bkclr="3549952"/>
-		<TextType id="9" name="Read-only mode" dstyle="1" dbkclr="1" clr="4339207"/>
+		<TextType id="30" name="Normal" dstyle="0" dbkclr="0" bold="0" italic="0" underline="0" clr="10592659" bkclr="4339207"/>
+		<TextType id="9" name="Read-only mode" dstyle="1" dbkclr="1" clr="3815212"/>
 		<TextType id="31" name="Comments" dstyle="0" dbkclr="0" text="1" bold="0" italic="1" underline="0" clr="7695960" bkclr="-1">
 			<FirstChar>*</FirstChar>
 			<Conditions>
